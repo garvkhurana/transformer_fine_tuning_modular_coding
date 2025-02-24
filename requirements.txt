@@ -9,6 +9,11 @@ tqdm
 PyYAML
 Flask
 jinja2
+rouge_score
+scipy
+box
+ensure
+
 
 -e .
 

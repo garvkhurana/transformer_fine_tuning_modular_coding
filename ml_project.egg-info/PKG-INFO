@@ -13,6 +13,10 @@ Requires-Dist: tqdm
 Requires-Dist: PyYAML
 Requires-Dist: Flask
 Requires-Dist: jinja2
+Requires-Dist: rouge_score
+Requires-Dist: scipy
+Requires-Dist: box
+Requires-Dist: ensure
 Dynamic: author
 Dynamic: author-email
 Dynamic: requires-dist
